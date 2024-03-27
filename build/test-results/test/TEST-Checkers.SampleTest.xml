@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checkers.SampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-20T02:40:57" hostname="LAPTOP-2SI78J1K" time="0.057">
+  <properties/>
+  <testcase name="simpleTest()" classname="Checkers.SampleTest" time="0.057"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
